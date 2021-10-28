@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2021-10-27 18:39:19
- * @LastEditTime: 2021-10-27 22:38:49
+ * @LastEditTime: 2021-10-28 10:33:54
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \6.0-PyPI_Table_Nan_Val\README.md
@@ -17,9 +17,9 @@ Check the missing value in Data Frame
 
 ## How to use it?
 
-`from table_nan_val import table_nan_val as tnv`
+`import table_nan_val as tnv`
 
-`tnv.table_nan_val(df)`
+`tnv.Missing_Value_Analysis(df)`
 then you will get analysis table and graph
 
 ## License
