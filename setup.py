@@ -1,7 +1,7 @@
 '''
 Author:  BDFD
 Date: 2021-10-27 18:39:19
-LastEditTime: 2021-10-27 22:39:34
+LastEditTime: 2021-10-27 22:40:57
 LastEditors: Please set LastEditors
 Description: In User Settings Edit
 FilePath: \6.0-PyPI_Missing_Value_Table\setup.py
@@ -13,7 +13,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="table_nan_val",
-    version="0.0.3",
+    version="0.0.4",
     author="BDFD",
     author_email="bdfd2005@gmail.com",
     description="find missing value for DataFrame",
