@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/templateproj/__init__.py
+src/templateproj/templateproj.py
+src/templateproj.egg-info/PKG-INFO
+src/templateproj.egg-info/SOURCES.txt
+src/templateproj.egg-info/dependency_links.txt
+src/templateproj.egg-info/top_level.txt
