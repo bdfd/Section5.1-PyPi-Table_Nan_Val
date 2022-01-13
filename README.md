@@ -30,4 +30,4 @@ This repository is licensed under the MIT license. See LICENSE for details.
 
 ### References
 
-https://github.com/bdfd/6.1-PyPI_Table_Nan_Val
+https://github.com/bdfd/Table_Nan_Val-PyPI
